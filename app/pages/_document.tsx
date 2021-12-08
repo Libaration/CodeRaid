@@ -11,7 +11,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <DocumentHead />
-        <body>
+        <body className="bg-gray-800 text-white">
           <Main />
           <BlitzScript />
         </body>
