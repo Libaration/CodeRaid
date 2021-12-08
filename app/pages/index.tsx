@@ -1,6 +1,6 @@
 const Home: BlitzPage = () => {
   return (
-    <div>
+    <div className="flex text-center">
       Hello <br />
       <button>Create Raid Room</button>
     </div>
